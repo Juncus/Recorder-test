@@ -15,10 +15,10 @@ The project is in need of Python programmers.
 
 
 # Next Steps
-*Code review –e.g. comments, re-usable base classes
-*Interface design review/planning –user/steering group workshops?Training/workshop for additional developers?
-*Outline/structure for the user guide/wiki?
-*Known further development tasks
-**Behaviour around rich text format (RTF) fields
+* Code review –e.g. comments, re-usable base classes
+* Interface design review/planning –user/steering group workshops?Training/workshop for additional developers?
+* Outline/structure for the user guide/wiki?
+* Known further development tasks
+** Behaviour around rich text format (RTF) fields
 oRemainder of data modeloInstallation tooloData entry functionalityoData import tooloData reporting tooloRunning XML reportsDevelopment priority/wish list (e.g. using Trello or GitHub repository discussion forum)DocumentationoDevelopers guide/wikiBasic development rules/proceduresExtensibility approach (& plugins?)Writing & running unit testsGit forking, submit pulls, etc.Internationalisation coding/testing considerationsLogging and debuggingoInstallation & configuration guideoUser guideDevelopment and release cycle and control –who, how, whenSteering group role –prioritising work list, agreeing core functionality vs plugins
 
