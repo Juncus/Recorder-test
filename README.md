@@ -17,7 +17,7 @@ The project is in need of Python programmers.
 ## Next Steps
 * [ ] Code review –e.g. comments, re-usable base classes
 * [ ] Interface design review/planning –user/steering group workshops?
-* [X] Training/workshop for additional developers?
+* [x] Training/workshop for additional developers?
 * [ ] Outline/structure for the user guide/wiki?
 * [ ] Known further development tasks
    * [ ] Behaviour around rich text format (RTF) fields
